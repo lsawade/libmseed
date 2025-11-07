@@ -2,7 +2,7 @@
 #include <libmseed.h>
 #include <yyjson.h>
 
-#include "../yyjson.h"
+#include "yyjson.h"
 
 char *testheaders = "{ \
   \"FDSN\": {\

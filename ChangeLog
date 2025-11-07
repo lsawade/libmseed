@@ -1,3 +1,11 @@
+2025.310: v3.1.??
+  - Adopted CMake-based build system with support for MS-Windows, Linux, and
+    macOS. restructured source tree to separate library code from build system
+    and examples.
+  - Updates INSTALL.md with build and installation instructions.
+  - Add CMake build options for shared/static libraries, examples, tests, and
+    libcurl URL support.
+  
 2025.303: v3.1.11
   - Fix byte swapping in ms3_detect() for v3 records for big-endian systems.
   - Add MSF_SKIPADJACENTDUPLICATES to skip adjacent duplicate records while
