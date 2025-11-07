@@ -1,4 +1,4 @@
-2025.310: v3.1.12
+2025.310: v3.1.??
   - Adopted CMake-based build system with support for MS-Windows, Linux, and
     macOS. restructured source tree to separate library code from build system
     and examples.
